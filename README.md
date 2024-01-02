@@ -6,5 +6,6 @@ lesson3：2023-11-14 C语言中的const和static关键字 <br>
 lesson4：2023-11-28 C语言的指针和数组进阶（一）<br>
 lesson5：2023-12-05 C语言的指针（一）<br>
 lesson6：2023-12-12 C语言的指针（二）<br>
-lesson7—more：2023-12-12之后 答疑 <br>
+lesson7：2024-1-2 C语言的指针（三） <br>
+lesson8: 2024-1-2 之后直到学期结束
 
